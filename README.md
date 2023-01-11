@@ -31,7 +31,7 @@ Outline the lifecycle of a ticket from intake to resolution within the open-sour
 <img src="https://i.imgur.com/jZNXd1E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-End-user Karen creates a ticket and a message is generated that states a help desk representative will respond shortly.
+End-user Karen creates a ticket and a message generates that states a help desk representative will respond shortly.
 </p>
 <br />
 
@@ -47,7 +47,7 @@ As the administrator Jane the Agent has been assigned the ticket created by end-
 <img src="https://i.imgur.com/cfOtSyG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Jane the Agent logged into her account and sees the ticket, "Entire mobile banking system down." assigned to her. 
+Jane the Agent acceses her account and sees the ticket, "Entire mobile banking system down." assigned to her. 
 </p>
 
 </p>
@@ -56,6 +56,6 @@ Jane the Agent logged into her account and sees the ticket, "Entire mobile banki
 <img src="https://i.imgur.com/RiW5ttr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Agent Jane has retrieved and resolved the ticket assigned to her and notified end-user Karen of its completion. 
+Agent Jane has retrieves and resolves the ticket assigned to her and notifies end-user Karen of its completion. 
 </p>
 <br />
