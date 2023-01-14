@@ -7,8 +7,8 @@ Outline the lifecycle of a ticket from intake to resolution within the open-sour
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To create a ticket as user](https://https://www.youtube.com/watch?v=Z8gZ3D8i_AE)
-- ### [YouTube: How To use osticket as agent with Prerequisites](https://https://www.youtube.com/watch?v=Uihfl5idy_E)
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com/watch?v=Uihfl5idy_E)
+
 
 
 <h2>Environments and Technologies Used</h2>
